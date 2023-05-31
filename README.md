@@ -1,5 +1,5 @@
 # Learning TinyML
-This is the repository for the LinkedIn Learning course Learning TinyML. The full course is available from [LinkedIn Learning][lil-course-url].
+TinyML exercises
 
 ![Learning TinyML][lil-thumbnail-url] 
 
