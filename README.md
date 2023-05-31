@@ -1,8 +1,6 @@
 # Learning TinyML
 TinyML exercises
 
-![Learning TinyML][lil-thumbnail-url] 
-
 While you may not realize it, TinyML probably affects your life in some way on a daily basis. If you have a smartphone or IoT device that features voice activation, facial recognition, audio detection, or other functions that employ machine learning algorithms, you have TinyML to thank. In this course, instructor Vaidheeswaran Archana
 guides you into the world of TinyML and shows you how you can process huge AI models right in the palm of your hand. Vaidheeswaran starts by teaching you how to identify if your ML/AI problem is a TinyML problem, then shows you optimization techniques to fit your deep learning models and illustrates multiple use cases. She explains quantization techniques, how to train a model using Tflite, how to deploy a TinyML model, and covers the entire TinyMLOps lifecycle. Vaidheeswaran finishes the course with a look at what’s in store for the future of TinyML, along with some resources you can use to continue your learning.
 
