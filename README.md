@@ -24,16 +24,3 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-
-### Instructor
-
-Vaidheeswaran Archana 
-                            
-
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/vaidheeswaran-archana).
-
-[lil-course-url]: https://www.linkedin.com/learning/learning-tinyml
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2447146/2447146-1658257176610-16x9.jpg
